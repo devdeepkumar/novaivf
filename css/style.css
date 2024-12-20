@@ -11209,8 +11209,8 @@ blockquote cite:before {
 @media (max-width: 576px) {
   .ser-content7 {
     width: 100%;
-    padding: 30px 20px;
-    margin-bottom: 20px;
+    padding: 50px 0 0;
+    
   }
 }
 .ser-content7 .btn-style7 {
@@ -11224,7 +11224,7 @@ blockquote cite:before {
   line-height: 42px;
   letter-spacing: -0.6px;
   text-transform: capitalize;
-  margin-bottom: 29px;
+  margin-bottom: 15px;
 }
 .ser-content7 .title a {
   color: var(--title-color);
@@ -18441,6 +18441,19 @@ body {
 
 @media (max-width:768px){
 
+  .about-block{
+    margin-bottom: 0;
+    }
+
+        .about-img-seven {
+        margin-bottom: 20px;
+    }
+    .title-area-three.seven h2 {
+    margin-bottom: 20px;
+}
+.title-area-three .text {
+    margin-top: 0;
+}
   .why-choose-section7.space-top{
     padding-top: 0;
   }
