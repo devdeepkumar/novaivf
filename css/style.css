@@ -6449,6 +6449,7 @@ textarea.form-control.is-invalid {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
+  margin-bottom: 12px;
 }
 .media-body-seven .media-label {
   margin-bottom: 12px;
@@ -6464,9 +6465,9 @@ textarea.form-control.is-invalid {
   color: var(--theme-color);
 }
 
-.media-style7.v1 {
+/* .media-style7.v1 {
   margin-bottom: 24px;
-}
+} */
 
 .footer-widget.shedule {
   /* Extra small devices */
