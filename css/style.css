@@ -12349,7 +12349,7 @@ blockquote cite:before {
   }
 }
 .dots-7 .slick-dots {
-  margin-top: 50px;
+  padding-block: 20px;
 }
 .dots-7 .slick-dots li button {
   width: 30px;
