@@ -1219,7 +1219,7 @@ textarea.form-control.is-invalid {
   content: "\f068";
 }
 .vs-mobile-menu > ul {
-  padding: 0 40px;
+  padding: 0 20px;
 }
 .vs-mobile-menu > ul > li:last-child {
   border-bottom: none;
@@ -6348,7 +6348,7 @@ textarea.form-control.is-invalid {
   font-weight: 400;
   line-height: 30px;
   margin-bottom: 39px;
-  max-width: 311px;
+  
   text-align: justify;
   margin-top: 20px;
   
@@ -11262,8 +11262,7 @@ blockquote cite:before {
 .service-img7 img {
   height: 100%;
   width: 100%;
-  -o-object-fit: cover;
-     object-fit: cover;
+  
 }
 .service-img7 .icon-box {
   position: absolute;
@@ -15437,7 +15436,16 @@ body {
   .brand-slider {
     margin: -40px 0;
   }
-}
+  .service-section7.space.space-md-bottom-0{
+    margin-block: 50px;
+  }
+ .service-section7 .title-area-three.text-center{
+  margin-bottom: 0;
+ }
+ .why-choose-section7.space-top{
+  margin-bottom: 50px;
+ }
+ }
 @media (max-width: 576px) {
   .brand-slider {
     margin: -70px 0;
