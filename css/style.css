@@ -11166,7 +11166,7 @@ blockquote cite:before {
   background: #F5F5F5;
   -webkit-box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.07);
           box-shadow: 0px 0px 25px 0px rgba(0, 0, 0, 0.07);
-  height: 384px;
+  height: 295px;
   /* Large devices */
   /* Extra small devices */
 }
@@ -18456,6 +18456,10 @@ body {
   padding: 14px 50px 0 20px;
 }
 
+.slick-list.draggable .service-card7 .service-img7 img{
+  object-fit: cover;
+}
+
 
 @media (max-width:991px){
   .specialist-card{
@@ -18508,4 +18512,7 @@ body {
   .testinial-section7.space{
     padding-bottom: 65px;
   }
+  /* .slick-list.draggable .slick-track .slick-slide{
+  padding-inline: 10px;
+} */
 }
